@@ -1,0 +1,12 @@
+.container{
+    display: none;
+}
+
+.WelcomeContainer{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 100px;
+    left: 300px;
+    background: rgba(0, 0, 0, 0.5);
+}
