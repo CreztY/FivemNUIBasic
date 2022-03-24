@@ -31,5 +31,3 @@ files {
 	'html/index.html',
 	'html/script.js'
 }
-
-dependency 'es_extended'
