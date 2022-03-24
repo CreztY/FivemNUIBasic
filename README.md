@@ -1,13 +1,13 @@
 ![](https://cdn.discordapp.com/icons/732572247826366494/bd25ff81268477c153bae74875c929ee.webp?size=96)
 
 
-#Uso basico de NUI para FiveM
+# Uso basico de NUI para FiveM
 todo lo necesario para comenzar un nuevo proyecto para FiveM usando HTML.
 
 este proyecto es para ayudar sobre todo a los que recien empiezen a programar en javascript para fivem.
 
 lo unico que tendras que cambiar es el nombre del "resource" en el archivo: script.js
-####En el archivo de Javascript　
+#### En el archivo de Javascript　
 buscar en la linea nº 14 esto:
 ```javascript
 $(document).on('keydown', function(event) {
@@ -30,7 +30,7 @@ $(document).on('keydown', function(event) {
 ```
 
 
-###Imagen
+### Imagen
 
 en esta imagen se muestra como abre el html dentro del juego:
 
